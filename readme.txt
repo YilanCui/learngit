@@ -1,0 +1,1 @@
+Dandan is a cute dog.
